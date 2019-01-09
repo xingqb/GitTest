@@ -18,5 +18,9 @@ public class HelloWord {
 		System.out.println("branch4");
 		System.out.println("branch5");
 		System.out.println("branch6");
+		System.out.println("branch7");
+		System.out.println("branch8");
+		System.out.println("branch9");
+		System.out.println("branch10");
 	}
 }
