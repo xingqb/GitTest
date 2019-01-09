@@ -10,5 +10,6 @@ public class HelloWord {
 		System.out.println("wohao");
 		System.out.println("reba");
 		System.out.println("branch1");
+		System.out.println("branch2");
 	}
 }
